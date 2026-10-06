@@ -1,0 +1,18 @@
+{
+  "modeSelection": true,
+  "humanVsHuman": true,
+  "humanVsAi": true,
+  "humanAsX": true,
+  "humanAsO": false,
+  "aiMoveLogic": true,
+  "aiBlocking": true,
+  "aiWinning": false,
+  "winnerDetection": true,
+  "drawDetection": true,
+  "occupiedCellProtection": true,
+  "restartGame": false,
+  "changeMode": true,
+  "resetScore": false,
+  "responsiveDesign": false,
+  "consoleErrors": []
+}

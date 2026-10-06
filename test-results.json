@@ -1,0 +1,12 @@
+{
+  "xWin": true,
+  "oWin": true,
+  "draw": true,
+  "occupiedCell": true,
+  "gameOverLock": true,
+  "restart": true,
+  "scoreboard": true,
+  "resetScore": true,
+  "responsive": true,
+  "consoleErrors": []
+}
